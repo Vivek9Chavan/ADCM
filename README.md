@@ -7,7 +7,7 @@
 
 ![Poster_img](https://github.com/Vivek9Chavan/ADCM/blob/main/ADCM_Poster_CVPRW.png)
 
-## code will be available here soon.
+## Code and resources will be available here soon.
 
 ## Acknowledgements
 
