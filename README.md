@@ -6,5 +6,5 @@
 
 https://github.com/Vivek9Chavan/ADCM/blob/main/ADCM_CVPRW_Poster.png
 
-![Poster_img]([https://github.com/Vivek9Chavan/RECIL/assets/57413096/a033df28-a033-4294-a4b0-e5641c540c42](https://github.com/Vivek9Chavan/ADCM/blob/main/ADCM_CVPRW_Poster.png))
+![Poster_img](https://github.com/Vivek9Chavan/ADCM/blob/main/ADCM_CVPRW_Poster.png)
 
