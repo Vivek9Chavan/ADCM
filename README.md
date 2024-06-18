@@ -7,3 +7,28 @@
 
 ![Poster_img](https://github.com/Vivek9Chavan/ADCM/blob/main/ADCM_Poster_CVPRW.png)
 
+## code will be available here soon.
+
+## Acknowledgements
+
+Our code borrows heavily form the following repositories:
+
+https://github.com/G-U-N/PyCIL
+
+https://github.com/facebookresearch/dino
+
+https://github.com/facebookresearch/VICRegL
+
+<a name="bibtex"></a>
+## Citation
+
+If you find our work or any of our materials useful, please cite our paper:
+```
+@InProceedings{Chavan_2024_CVPR,
+    author    = {Chavan, Vivek and Koch, Paul and Schl\"uter, Marian and Briese, Clemens and Kr\"uger, J\"org},
+    title     = {Active Data Collection and Management for Real-World Continual Learning via Pretrained Oracle},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2024},
+    pages     = {4085-4096}
+}
