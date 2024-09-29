@@ -14,7 +14,7 @@
 **Abstract:** Deep Learning based approaches have led to several breakthroughs in Computer Vision (CV) research. However, catastrophic forgetting and the plasticity-rigidity dilemma remain a fundamental obstacle in our path to machine intelligence. Continual Learning (CL) research aims to address this issue through replay, model augmentation, regularisation and other techniques. In this paper, we analyse CL using the Dual Process theory and related frameworks. We extend concepts and theories from studies on human reasoning and learning to ongoing CL developments. We argue that Continual Learning is a System 2 problem, and derive insights about the practical application of existing approaches. We develop our hypotheses and verify their validity on publicly available and varied datasets. Our approach involves encoding contextual semantic information and robust pretraining. Experiments show that these techniques can improve model performance under diverse scenarios.
 
 
-![Poster_img](![HCV](https://github.com/Vivek9Chavan/ADCM/blob/main/(ECCV2024%20Workshop)%20Poster.jpg))
+![Poster](https://github.com/Vivek9Chavan/ADCM/blob/main/(ECCV2024%20Workshop)%20Poster.jpg)
 
 ## Code and resources will be available here soon.
 
