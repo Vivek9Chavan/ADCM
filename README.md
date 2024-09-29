@@ -42,7 +42,6 @@ If you find our work or any of our materials useful, please cite our papers:
     pages     = {4085-4096}
 }
 
-
 @InProceedings{Chavan_2024_ECCV,
     author    = {Chavan, Vivek and Heimann, Oliver and Kr\"uger, J\"org},
     title     = {A System 1 and System 2 Perspective on Continual Learning for Practical Implementation},
